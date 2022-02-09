@@ -7,7 +7,7 @@ I'm a data scientist at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [
 - 🔭 I’m currently working on :
   - Developing novel fragmentation strategies in metabolomics via [ViMMS](https://github.com/glasgowcompbio/vimms/tree/master/vimms).
   - Discovering substructures in tandem mass spectrometry data using [MS2LDA](https://ms2lda.org) and [pySubstructures](https://github.com/glasgowcompbio/pySubstructures).
-  - Omics data integration via [GraphOmics](https://graphomics.glasgowcompbio.org/) and [pyMultiOmics](https://github.com/glasgowcompbio/pyMultiOmics/).
+  - Omics data integration framework through [GraphOmics](https://graphomics.glasgowcompbio.org/) and [pyMultiOmics](https://github.com/glasgowcompbio/pyMultiOmics/).
 
 - 📝 You can find my [list of publications here](https://scholar.google.com/citations?user=K6nz3aoAAAAJ).
 
