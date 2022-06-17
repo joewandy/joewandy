@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Joe.
 
-I'm a data scientist at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/).
+I'm an ML engineer / data scientist at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/).
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewandy)](https://github.com/anuraghazra/github-readme-stats)
 
