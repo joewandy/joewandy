@@ -6,7 +6,7 @@ The following is a list of my recent talks and poster presentations.
 
 - **[Rapid Development of Improved Data-Dependent Acquisition Strategies](https://github.com/joewandy/joewandy/raw/main/presentations/Metabolomics_2021.pdf)** -- talk at the 17th Annual Conference of the Metabolomics Society ([Metabolomics 2021](https://metabolomics2021.org/)).
 
-- **[GraphOmics: An Interactive Platform to Explore and Integrate Multi-Omics Data](https://github.com/joewandy/joewandy/raw/main/presentations/Metabolomics_2021.pdf)** -- talk at [University of Glasgow Computational Biology Conference](https://cbc.dcs.gla.ac.uk/previousconference.html) 2021.
+- **[GraphOmics: An Interactive Platform to Explore and Integrate Multi-Omics Data](https://github.com/joewandy/joewandy/raw/main/presentations/CompBio_2021.pdf)** -- talk at [University of Glasgow Computational Biology Conference](https://cbc.dcs.gla.ac.uk/previousconference.html) 2021.
 
 - **[Advancing fragmentation strategies development in LC-MS metabolomics](https://github.com/joewandy/joewandy/raw/main/presentations/ISMB_2020.pdf)** -- poster at the 28th Conference on Intelligent Systems for Molecular Biology ([ISMB 2020](https://www.iscb.org/ismb2020)).
 
