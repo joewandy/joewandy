@@ -1,19 +1,18 @@
 ### Hi 👋 I'm Joe.
 
-I'm an ML engineer / data scientist at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/).
+I'm an ML engineer and post-doc researcher at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/). My primary research interest lies in the application of machine learning methods to improve data analysis and interpretation in life science. All my research work are publicly available at [Glasgow Polyomics](https://github.com/glasgowcompbio)'s GitHub profile. 
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewandy)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on :
+I actively publish in computational biology and bioinformatics journals. You can find my [list of publications here](https://scholar.google.com/citations?user=K6nz3aoAAAAJ), as well as [recent talks and presentations here](talks.md).
+
+I’m currently working on :
   - Developing novel fragmentation strategies in metabolomics via [ViMMS](https://github.com/glasgowcompbio/vimms/tree/master/vimms)
     and [ViMMS-gym](https://github.com/glasgowcompbio/vimms-gym).
+  - Bayesian adaptive clinical trial design via [pyBasket](https://github.com/glasgowcompbio/pyBasket).
+    
+Other past projects that you may find interesting:
   - Discovering substructures in tandem mass spectrometry data using [MS2LDA](https://ms2lda.org) and [pySubstructures](https://github.com/glasgowcompbio/pySubstructures).
   - Omics data integration framework through [GraphOmics](https://graphomics.glasgowcompbio.org/) and [pyMultiOmics](https://github.com/glasgowcompbio/pyMultiOmics/).
 
-- 📝 You can find my [list of publications here](https://scholar.google.com/citations?user=K6nz3aoAAAAJ).
-
-- 📈 You can find my [recent talks and presentations here](talks.md).
-
-- 👯 I’m looking to collaborate on omics data integration, metabolomics data analysis, and any other interesting project!
-
-- 📫 How to reach me: joewandy@glasgow.ac.uk, or via [twitter](https://twitter.com/joe__wandy).
+📫 How to reach me: joewandy@glasgow.ac.uk, or via [twitter](https://twitter.com/joe__wandy).
