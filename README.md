@@ -1,10 +1,10 @@
 ### Hi 👋 I'm Joe.
 
-I'm an ML engineer and post-doc researcher at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/). My primary research interest lies in the application of machine learning methods to improve data analysis and interpretation in life science. All my research work are publicly available at [Glasgow Polyomics](https://github.com/glasgowcompbio)'s GitHub profile. 
+I'm a research data scientist at [Glasgow Polyomics](https://www.polyomics.gla.ac.uk/), [University of Glasgow](https://www.gla.ac.uk/). My primary interest lies in the application of machine learning methods to improve data analysis and infer the unknowns in life sciences. 
+All my research work are publicly available in this GitHub. I actively publish in computational biology and bioinformatics journals. You can find my [list of publications here](https://scholar.google.com/citations?user=K6nz3aoAAAAJ), as well as [recent talks and presentations here](talks.md).
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewandy)](https://github.com/anuraghazra/github-readme-stats)
 
-I actively publish in computational biology and bioinformatics journals. You can find my [list of publications here](https://scholar.google.com/citations?user=K6nz3aoAAAAJ), as well as [recent talks and presentations here](talks.md).
 
 I’m currently working on :
   - Developing novel fragmentation strategies in metabolomics via [ViMMS](https://github.com/glasgowcompbio/vimms/tree/master/vimms)
