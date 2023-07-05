@@ -4,8 +4,6 @@ I work on applying machine learning in computational biology domain, mostly in m
 
 All my work are available on this GitHub. I am actively publishing in computational biology and bioinformatics [journals](https://scholar.google.com/citations?user=K6nz3aoAAAAJ), as well as presenting in [workshops and conferences](talks.md).
 
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewandy)](https://github.com/anuraghazra/github-readme-stats)
-
 I’m currently working on :
   - Developing novel fragmentation strategies in metabolomics via [ViMMS](https://github.com/glasgowcompbio/vimms/tree/master/vimms)
     and [ViMMS-gym](https://github.com/glasgowcompbio/vimms-gym).
