@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Joe.
 
-I am a machine learning engineer and research scientist with 6+ years of experience in devising model-based and algorithmic solutions for complex biological problems. My expertise are primarily in applying machine learning methods to omics data analysis and mass spectrometry data acquisition. However, I am keen to apply my skills in novel practical settings, even outside computational biology.
+I work on applying machine learning in computational biology domain, mostly in metabolomics and multi-omics data analysis.
 
 All my work are available on this GitHub. I am actively publishing in computational biology and bioinformatics [journals](https://scholar.google.com/citations?user=K6nz3aoAAAAJ), as well as presenting in [workshops and conferences](talks.md).
 
