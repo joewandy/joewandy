@@ -4,7 +4,7 @@ The following is a list of my recent talks and poster presentations.
 
 - **[Omics Design For Basket Trial in Precision Medicine](https://github.com/joewandy/joewandy/raw/main/presentations/Glasgow_CompBio_2023.pdf)** -- talk at [University of Glasgow Computational Biology Conference 2023](https://cbc.dcs.gla.ac.uk).
 
-- **[Mass spectrometry control in metabolomics using reinforcement learning](https://github.com/joewandy/joewandy/raw/main/presentations/MLIS_2022.pdf)** -- poster at [Machine Learning in Science Conference 2022](https://mlisconf.org).
+- **[Mass spectrometry control in metabolomics using reinforcement learning](https://github.com/joewandy/joewandy/raw/main/presentations/MLIS_2022.pdf)** -- poster at [Machine Learning in Science Conference 2022]([https://mlisconf.org](https://twitter.com/hashtag/mlis2022)).
 
 - **[Rapid Development of Improved Data-Dependent Acquisition Strategies](https://github.com/joewandy/joewandy/raw/main/presentations/Metabolomics_2021.pdf)** -- talk at [the 17th Annual Conference of the Metabolomics Society 2021](https://metabolomics2021.org/).
 
